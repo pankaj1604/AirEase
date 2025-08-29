@@ -65,6 +65,8 @@ const Breathe = () => {
 
                 const next = getNextPhase(phase);
                 setPhase(next.name);
+
+                
                 return next.time;
 
             })
