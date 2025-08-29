@@ -28,18 +28,13 @@ The app provides a **visual breathing guide** using smooth circle animations, co
 
 🎮 Usage
 
-Open the app in your browser.
-
-Set your inhale, hold, and exhale durations.
-
-Choose your session duration.
-
-Start the session and follow the animated circle to guide your breathing.
-
-Use the pause/play button anytime during the session.
+- Open the app in your browser.
+- Set your inhale, hold, and exhale durations.
+- Choose your session duration.
+- Start the session and follow the animated circle to guide your breathing.
+- Use the pause/play button anytime during the session.
 
 👨‍💻 Author
 
-Pankaj Kumar
-
-✉️ dev.pankajkr7@gmail.com
+- Pankaj Kumar
+- ✉️ dev.pankajkr7@gmail.com
