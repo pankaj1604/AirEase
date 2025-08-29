@@ -41,4 +41,5 @@ Use the pause/play button anytime during the session.
 👨‍💻 Author
 
 Pankaj Kumar
+
 ✉️ dev.pankajkr7@gmail.com
