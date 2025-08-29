@@ -36,5 +36,5 @@ The app provides a **visual breathing guide** using smooth circle animations, co
 
 👨‍💻 Author
 
-- Pankaj Kumar
+Pankaj Kumar
 - ✉️ dev.pankajkr7@gmail.com
